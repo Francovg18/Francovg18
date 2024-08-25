@@ -45,7 +45,7 @@ Hola, mi nombre es Alex, un informático dedicado a compartir conocimientos sobr
 <div align="center">
   <a href="https://discord.com/users/tu-discord" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://www.facebook.com/tu-facebook" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://wa.me/tu-whatsapp" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://wa.me/tu-whatsapp" target="_blank"><img src="https://wa.me/59169926193" alt="WhatsApp"></a>
 </div>
 
 ---
