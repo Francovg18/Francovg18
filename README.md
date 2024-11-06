@@ -43,17 +43,14 @@ Hola, mi nombre es Alex, un informático dedicado a compartir conocimientos sobr
 
 ---
 
-### 🎥 Mis Videos Recientes en YouTube
+### 🎥 Mis Videos Recientes 
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=wsGSeggwVU8" target="_blank">
-    <img src="https://img.youtube.com/vi/wsGSeggwVU8/hqdefault.jpg" alt="Video 1" width="250" style="border-radius:10px; margin: 10px;">
+    <img src="https://img.youtube.com/vi/wsGSeggwVU8/hqdefault.jpg" alt="Video 1" width="250" style="border-radius:15px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4); margin: 15px;">
   </a>
   <a href="https://www.youtube.com/watch?v=Eg1FYThHHQU" target="_blank">
-    <img src="https://img.youtube.com/vi/Eg1FYThHHQU/hqdefault.jpg" alt="Video 2" width="250" style="border-radius:10px; margin: 10px;">
-  </a>
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_TERCERO" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_TERCERO/hqdefault.jpg" alt="Video 3" width="250" style="border-radius:10px; margin: 10px;">
+    <img src="https://img.youtube.com/vi/Eg1FYThHHQU/hqdefault.jpg" alt="Video 2" width="250" style="border-radius:15px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4); margin: 15px;">
   </a>
 </div>
 
