@@ -39,9 +39,6 @@ Hola, mi nombre es Alex, un informático dedicado a compartir conocimientos sobr
 </div>
 
 ---
----
-
----
 
 ### 🎥 Mis Videos Recientes 
 
