@@ -41,20 +41,22 @@ Hola, mi nombre es Alex, un informático dedicado a compartir conocimientos sobr
 ---
 ---
 
+---
+
 ### 🎥 Mis Videos Recientes en YouTube
 
 <div align="center">
-
-  <!-- Video 1 -->
-  <iframe width="250" height="140" src="https://www.youtube.com/embed/wsGSeggwVU8" title="Video de YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-  <!-- Video 2 -->
-  <iframe width="250" height="140" src="https://www.youtube.com/embed/Eg1FYThHHQU" title="Video de YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-  <!-- Espacio para otro video en el futuro -->
-  <iframe width="250" height="140" src="https://www.youtube.com/embed/VIDEO_ID_TERCERO" title="Video de YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+  <a href="https://www.youtube.com/watch?v=wsGSeggwVU8" target="_blank">
+    <img src="https://img.youtube.com/vi/wsGSeggwVU8/hqdefault.jpg" alt="Video 1" width="250" style="border-radius:10px; margin: 10px;">
+  </a>
+  <a href="https://www.youtube.com/watch?v=Eg1FYThHHQU" target="_blank">
+    <img src="https://img.youtube.com/vi/Eg1FYThHHQU/hqdefault.jpg" alt="Video 2" width="250" style="border-radius:10px; margin: 10px;">
+  </a>
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID_TERCERO" target="_blank">
+    <img src="https://img.youtube.com/vi/VIDEO_ID_TERCERO/hqdefault.jpg" alt="Video 3" width="250" style="border-radius:10px; margin: 10px;">
+  </a>
 </div>
+
 
 
 ### 🔗 Conéctate conmigo
